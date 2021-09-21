@@ -18,7 +18,7 @@ The same can be done if the application has trust built over any external backen
 
 Let’s understand it better through some visuals: There are functionalities where the application is supposed to be communicating with a server and access resources.
 
-Types of SSRF
+ Types of SSRF
 
 Non-Blind SSRF: This is a type of SSRF where an application fetches the requested resource and directly presents it on the front end. The whole output is clearly visible to the user/attacker.
 
