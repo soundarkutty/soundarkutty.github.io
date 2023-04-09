@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "soundar"
+title                    : "Personal site"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
