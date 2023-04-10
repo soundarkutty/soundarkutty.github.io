@@ -1,6 +1,6 @@
 ---
 title: 'Thread Modelling'
-date: 2023-02-18
+date: 2022-08-09
 permalink: /posts/2022/08/Thread Modelling/
 tags:
   - Vulnerability
