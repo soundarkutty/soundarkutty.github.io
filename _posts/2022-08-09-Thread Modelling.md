@@ -1,3 +1,12 @@
+---
+title: 'Thread Modelling'
+date: 2023-02-18
+permalink: /posts/2022/08/Thread Modelling/
+tags:
+  - Vulnerability
+  - OWASP TOP 10
+  - Thread Modelling
+---
 what is Thread Modelling ?
 
 Threat modeling is a process by which potential threats, such as structural vulnerabilities can be identified, enumerated, and prioritized. The purpose of threat modeling is to identify, communicate, and understand threats and mitigations within the context of protecting something of value.
