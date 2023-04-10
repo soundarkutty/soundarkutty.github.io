@@ -1,5 +1,5 @@
 what is Thread Modelling ?
---- 
+
 Threat modeling is a process by which potential threats, such as structural vulnerabilities can be identified, enumerated, and prioritized. The purpose of threat modeling is to identify, communicate, and understand threats and mitigations within the context of protecting something of value.
 
 
