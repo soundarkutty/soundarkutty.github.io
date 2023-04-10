@@ -13,7 +13,7 @@ Threat modeling is a process by which potential threats, such as structural vuln
 
 
 
-![Alt text](../images/thread.PNG)
+![](../images/thread.PNG)
 
 
 **A threat model typically includes:**
