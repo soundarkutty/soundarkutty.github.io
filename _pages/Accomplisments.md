@@ -9,9 +9,9 @@ redirect_from:
 
 ## Hall of Fame and Accomplisments
 
-* xsolla (XSS ISSUE In Search field) [xsolla] Link (https://help.xsolla.com/xsolla-bounty-program)
+* xsolla (XSS ISSUE In Search field) Link [xsolla] (https://help.xsolla.com/xsolla-bounty-program)
 
-* Stessa company(SSRF ISSUE )[stessa] Link (https://www.linkedin.com/posts/soundar-m-4647b3149_achievement-bugbounty-responsibleabrdisclosure-activity-6642087970239275008-RXXB?utm_source=share&utm_medium=member_desktop)
+* Stessa company(SSRF ISSUE ) Link [stessa] (https://www.linkedin.com/posts/soundar-m-4647b3149_achievement-bugbounty-responsibleabrdisclosure-activity-6642087970239275008-RXXB?utm_source=share&utm_medium=member_desktop)
 
 * MONGODB(Session Management Issue) Link:- (https://www.mongodb.com/company/contact/mongodb-vulnerability-disclosure-policy)
 
