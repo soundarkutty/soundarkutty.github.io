@@ -19,9 +19,17 @@ redirect_from:
 
 * cyfe (XSS ISSUE In Search field) Link [cyfe](https://www.cyfe.com/security-research-contributors/)
 
-* grape Link [grape](https://www.grape.io/report)
+* grape Link [grape](https://www.grape.io/report) 
 
 * Blocksender   Link [Blocksender](https://blocksender.io/vulnerability-disclosure-policy/)
+
+* redwolf Link [redwolf](https://www.redwolf.in/) (swag)
+
+* Dell Link [Dell](https://www.dell.com/support/contents/en-in/article/product-support/self-support-knowledgebase/security-antivirus/alerts-vulnerabilities/dell-vulnerability-response-policy)
+
+* meetfabric Link [meetfabric](https://meetfabric.com/legal/security-policy)
+
+* Klenty Link [Klenty](https://www.klenty.com/responsible-disclosure) (appreciation letter)
 
 * Hackerone and bugcrowd Bugbounty &VDP active member
 
