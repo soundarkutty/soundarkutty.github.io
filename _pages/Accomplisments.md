@@ -19,7 +19,7 @@ redirect_from:
 
 * cyfe (XSS ISSUE In Search field) Link [cyfe](https://www.cyfe.com/security-research-contributors/)
 
-* grape Link [grape](https://www.grape.io/report) 
+* grape Link [grape](https://www.grape.io/report) (hof)
 
 * Blocksender   Link [Blocksender](https://blocksender.io/vulnerability-disclosure-policy/)
 
@@ -27,9 +27,15 @@ redirect_from:
 
 * Dell Link [Dell](https://www.dell.com/support/contents/en-in/article/product-support/self-support-knowledgebase/security-antivirus/alerts-vulnerabilities/dell-vulnerability-response-policy)
 
-* meetfabric Link [meetfabric](https://meetfabric.com/legal/security-policy)
+* meetfabric Link [meetfabric](https://meetfabric.com/legal/security-policy) (swag and hof)
 
 * Klenty Link [Klenty](https://www.klenty.com/responsible-disclosure) (appreciation letter)
+
+* mailgun Link [Mailgun](https://www.mailgun.com/blog/it-and-engineering/vulnerability-management/) (appreciation letter)
+
+* Netgear Link [Netgear](https://www.netgear.com/in/about/security/)(swag)
+
+* aweber Link [aweber](https://www.aweber.com/responsible-disclosure.htm)(swag)
 
 * Hackerone and bugcrowd Bugbounty &VDP active member
 
