@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal site"
+title                    : "Soundar Blog"
 title_separator          : "-"
 name                     : &name "soundar"
 description              : #&description "personal description"
