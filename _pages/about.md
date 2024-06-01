@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A security Researcher from India"
+title: "A blog is all about cyber security and Random stuff "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
