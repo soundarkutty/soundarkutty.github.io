@@ -1,17 +1,30 @@
 ---
-title: 'Thread Modelling'
+title: 'Threat Modelling'
 date: 2022-08-09
-permalink: /posts/2022/08/Thread Modelling/
+permalink: /posts/2022/08/Threat Modelling/
 tags:
   - Vulnerability
   - OWASP TOP 10
   - Thread Modelling
 ---
-what is Thread Modelling ?
+what is Threat Modelling ?
 
-Threat modeling is a process by which potential threats, such as structural vulnerabilities can be identified, enumerated, and prioritized. The purpose of threat modeling is to identify, communicate, and understand threats and mitigations within the context of protecting something of value.
+Threat modeling is a strucuted approach of identif,analyzomg and mitigating potentity security threatin the system,application or network in the early stage of design phase of SDLC. The purpose of threat modeling is to identify, communicate, and understand threats and mitigations within the context of protecting something of value.
 
 ![Alt text](https://docs.microsoft.com/en-us/azure/security/media/azure-security-threat-modeling-tool-feature-overview/sdlapproach.png)
+
+Why threat modelling Need ?
+
+* Identify the threat in the early stage of SDLC it will reduce the cost and effort of fixing in the vulnerabilites software developer life cycle.
+* Make sure we follow the compliance standard framework  e.g.OWASP ASVS, NIST, ISO 27001.
+* Creates security mindset across the team.
+
+Jow to perform and what are things need to collect before doing theat modelling.
+
+
+
+
+
 
 
 **A threat model typically includes:**
@@ -26,7 +39,7 @@ Threat modeling is a process by which potential threats, such as structural vuln
 
 * A way of validating the model and threats, and verification of success of actions taken
 
-**Top Thread Modelling Framework**
+**Top Threat Modelling Framework**
 
 * STRIDE
 
@@ -35,7 +48,7 @@ Threat modeling is a process by which potential threats, such as structural vuln
 * MITRE ATT&CK
 
 
-**Let  take STRIDE thread modelling**
+**Let  take STRIDE threat modelling**
 
 STRIDE is a threat modeling framework developed by Microsoft employees and published in 1999. The STRIDE threat model is focused on the potential impacts of different threats to a system:
 
