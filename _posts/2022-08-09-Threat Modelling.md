@@ -43,7 +43,7 @@ Tools:
 
 * OWASP Threat Dragon
 
-DFD is Often used to represent the following diagram.
+DFD is Often used to represent STRIDE framework the following diagram.
 
 Rectangle(External entities) - Actor interacting with the systems.
 
@@ -67,29 +67,5 @@ dotted line - inside and outside the boundary ( a user interacting outside the i
 
 * A way of validating the model and threats, and verification of the actions taken
 
-**Top Threat Modelling Framework**
-
-* STRIDE
-
-* OWASP Top 10
-
-* MITRE ATT&CK
-
-
-**Let  take STRIDE threat modelling**
-
-STRIDE is a threat modeling framework developed by Microsoft employees and published in 1999. The STRIDE threat model is focused on the potential impacts of different threats to a system:
-
-* Spoofing
-
-* Tampering
-
-* Repudiation
-
-* Information disclosure
-
-* Denial of service
-
-* Escalation of privileges
 
 
